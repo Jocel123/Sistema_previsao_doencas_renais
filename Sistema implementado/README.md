@@ -26,6 +26,5 @@
 ## Como Executar o Sistema - Running Tests
 
 Para rodar o sistema, basta digitar o comando abaixo no terminal do VSCode 
-
 ```  python app.py (tecle enter)
-```
+
